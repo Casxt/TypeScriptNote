@@ -1,3 +1,4 @@
 # TypeScriptNote
-TypeScript中的一些不常见用法
+TypeScript中的一些新颖用法
+
 见wiki
